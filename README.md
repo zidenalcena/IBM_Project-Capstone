@@ -8,3 +8,15 @@ Empat menu utama:
 * Jam Kerja
 * Klaim Garansi
 * Profil Teknisi
+
+### Built With
+Dalam pengembangannya, project ini menggunakan services serta [pattern](https://developer.ibm.com/patterns/enhance-customer-helpdesk-with-smart-document-understanding-using-search-skill) yang telah disediakan oleh IBM seperti:
+
+* [![watson-d][watson-discovery]][watson-d-url]
+* [![watson-a][watson-assistant]][watson-a-url]
+
+[watson-discovery]: https://img.shields.io/badge/watson_discovery-0769AD?style=for-the-badge&logo=ibm&logoColor=white
+[watson-d-url]: https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-getting-started
+
+[watson-assistant]: https://img.shields.io/badge/watson_assistant-0769AD?style=for-the-badge&logo=ibm&logoColor=white
+[watson-a-url]: https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-getting-started
