@@ -9,7 +9,7 @@ Empat menu utama:
 * Klaim Garansi
 * Profil Teknisi
 
-### Built With
+### Build With
 Dalam pengembangannya, project ini menggunakan services serta [pattern](https://developer.ibm.com/patterns/enhance-customer-helpdesk-with-smart-document-understanding-using-search-skill) yang telah disediakan oleh IBM seperti:
 
 * [![watson-d][watson-discovery]][watson-d-url]
