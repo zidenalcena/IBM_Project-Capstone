@@ -19,4 +19,4 @@ Dalam pengembangannya, project ini menggunakan services serta [pattern](https://
 [watson-d-url]: https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-getting-started
 
 [watson-assistant]: https://img.shields.io/badge/watson_assistant-0769AD?style=for-the-badge&logo=ibm&logoColor=white
-[watson-a-url]: https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-getting-started
+[watson-a-url]: [https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-getting-started](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started
